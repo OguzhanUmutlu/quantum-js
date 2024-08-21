@@ -1,2 +1,2 @@
 # quantum-js
-A JS library that can compute quantum gates.
+A JS library that can compute quantum logic gates.
